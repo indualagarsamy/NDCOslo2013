@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NdcOslo.CustomerRelations.Messages", "NdcOslo.CustomerRelations.Messages\NdcOslo.CustomerRelations.Messages.csproj", "{5FAA4A2F-67E1-4AE1-BEC5-1F6CE7F97FCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NdcOslo.CustomerRelations", "NdcOslo.CustomerRelations\NdcOslo.CustomerRelations.csproj", "{37942933-0876-4283-9001-D84A14E3C52E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NdcOslo.Sales", "NdcOslo.Sales\NdcOslo.Sales.csproj", "{BDDC9080-C538-4C0D-932D-F26760F399CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FAA4A2F-67E1-4AE1-BEC5-1F6CE7F97FCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FAA4A2F-67E1-4AE1-BEC5-1F6CE7F97FCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FAA4A2F-67E1-4AE1-BEC5-1F6CE7F97FCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FAA4A2F-67E1-4AE1-BEC5-1F6CE7F97FCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37942933-0876-4283-9001-D84A14E3C52E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37942933-0876-4283-9001-D84A14E3C52E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37942933-0876-4283-9001-D84A14E3C52E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37942933-0876-4283-9001-D84A14E3C52E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDDC9080-C538-4C0D-932D-F26760F399CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDDC9080-C538-4C0D-932D-F26760F399CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDDC9080-C538-4C0D-932D-F26760F399CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDDC9080-C538-4C0D-932D-F26760F399CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
